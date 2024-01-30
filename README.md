@@ -1,8 +1,8 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-This is the main repository for all of the projects in the course.
+This is the main repository for all of the projects 
 
--   [Course Link](https://www.udemy.com/course/50-projects-50-days)
+- 
 -   [Course Info Website](https://50projects50days.com)
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
@@ -61,7 +61,5 @@ This is the main repository for all of the projects in the course.
 
 
 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+
 
