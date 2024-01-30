@@ -2,7 +2,7 @@
 
 This is the main repository for all of the projects 
 
-- 
+
 -   [Course Info Website](https://50projects50days.com)
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
